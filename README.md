@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suman72
 - 👀 I’m interested in languages, framework, industries
 - 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on datascience tools and projects
+- 💞️ I’m looking to collaborate on data science tools and projects
 - 📫 How to reach me 
 
 <!---
